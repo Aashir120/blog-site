@@ -7,7 +7,7 @@ export const Footer = () => {
         <
         h1 >
         Explorer | created By Syed Aashir Majeed <
-        /h1> <
+        /h1>  <
         /div>
     )
 }

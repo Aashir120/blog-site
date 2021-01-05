@@ -62,21 +62,21 @@ export default class Header extends Component {
             color = "inherit" >
             <
             MenuIcon className = { styles.iconi }
-            />  <
-            /IconButton>  <
+            />   <
+            /IconButton>   <
             Typography variant = "h6"
             className = { styles.title } >
             <
             a className = "brand"
             href = "/" > { this.props.brand.name } <
-            /a>  <
-            /Typography>  <
+            /a>   <
+            /Typography>   <
             nav className = { styles.link } >
             <
             NavLinks / >
             <
-            /nav>  <
-            /StyledNavbar>  <
+            /nav>   <
+            /StyledNavbar>   <
             /Transition>
         );
     }
